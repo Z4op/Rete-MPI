@@ -1,3 +1,3 @@
 MPI network
 
-![Alt Text](schema_rete_mpi.png, "")
+![Project Logo](schema_rete_mpi.png, "")
