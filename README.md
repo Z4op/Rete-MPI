@@ -1,3 +1,3 @@
 MPI network
 
-![Project Logo](schema_rete_mpi.png, "")
+![Project Logo](images/schema_rete_mpi.png, "my project infrostructure")
